@@ -2,3 +2,4 @@ To start with ML, you can either refer to countless resources available on YouTu
 
 Python knowledge is important and as you proceed you might want to learn more languages. So if you are weak at Python I would recommend a refresher course on Python before starting off with this.
 
+Check *links.md* for more information
